@@ -1,7 +1,7 @@
 class Student 
   
-  def hello(greeting)
-    greeting
+  def hello
+    "Hey there! I'm so excited to learn stuff.\n"
   end 
   
   def raise_hand 
